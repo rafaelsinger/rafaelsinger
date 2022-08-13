@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.rafaelsinger.com">
-      <img src="https://img.shields.io/badge/Personal%20Website-rafaelsinger.com-orange" alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/-Personal%20Website-black?style=for-the-badge&?logoColor=blue" alt="Personal Website"/>
     </a>
   </div>
 </div>
