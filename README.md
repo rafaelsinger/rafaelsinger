@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsinger)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100"/>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
